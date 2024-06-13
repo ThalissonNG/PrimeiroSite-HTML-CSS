@@ -40,7 +40,7 @@ body * {
 }
 #container {
   width: 360px;
-  /*border: 1px solid red;*/
+  /* border: 1px solid red; */
   margin: auto;
   padding: 0 24px;
 }

@@ -8,7 +8,7 @@ if(html.classList.contains('light')){
     img.setAttribute('src', './assets/avatar.png')
     html.classList.remove('light')
 }else{
-   img.setAttribute('src', './assets/avatar-light.png')
+    img.setAttribute('src', './assets/avatar-light.png')
     html.classList.add('light')
 }
 }

@@ -3,10 +3,18 @@
     align-items: center;
     justify-content: center;
     border: 1px solid red;
+    height: 100vh;
+    gap: 15px;
+    background: linear-gradient(to top, red, blue);
 }
-body{
+#content{
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+}
+/* body{
     background-color: #11232E;
-}
+} */
 p{
     font-weight: 300;
     font-size: 30px;

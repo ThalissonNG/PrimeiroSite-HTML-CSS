@@ -55,6 +55,9 @@ body * {
   width: 112px;
   margin: auto;
 }
+#profile img:hover{
+  width: 120px
+}
 #profile p {
   /* font-weight: 500; */
   line-height: 24px;
@@ -136,13 +139,15 @@ ul li a {
   padding: 16px 24px;
 
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 400;
 
   transition: background 0.5s;
+  transition: font 0.2s;
 }
 
 ul li a:hover {
   font-size: 18px;
+  font-weight: 1000;
   background-color: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
 }

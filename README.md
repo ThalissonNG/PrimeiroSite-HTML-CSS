@@ -19,7 +19,7 @@ Primeiro programa desenvolvido por Thalisson, com base em um corso da Rocketseat
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/Capa.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/Capa.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias

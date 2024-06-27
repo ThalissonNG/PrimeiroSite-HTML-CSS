@@ -26,6 +26,7 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  background-attachment: fixed;
   height: 100vh;
   /*
   Forma simplificada de escrever tudo isso em uma unica linha
@@ -54,9 +55,6 @@ body * {
   display: block;
   width: 112px;
   margin: auto;
-}
-#profile img:hover{
-  width: 120px
 }
 #profile p {
   /* font-weight: 500; */

@@ -149,6 +149,9 @@ ul li a:hover {
   background-color: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
 }
+/* a:hover{
+  transform: scale(1.02);
+} */
 
 #social-links {
   display: flex;
